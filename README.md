@@ -15,7 +15,7 @@ Website Unblocker based off the [AlloyProxy](https://github.com/titaniumnetwork-
 **ytblock.ml is being URL FORWARDED to aeroproxy.herokuapp.com**
 
 # Deploy and Use
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy.org)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/avinashkulshrestha/alloyproxy.org)
 
 <a href="https://repl.it/github/titaniumnetwork-dev/alloyproxy.org" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy" width="140" height="30"><img></a>
 
